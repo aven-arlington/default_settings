@@ -1,0 +1,24 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "window.zoomLevel": 1,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.renderWhitespace": "all",
+    "security.workspace.trust.enabled": false,
+    "explorer.confirmDelete": false,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "editor.tabSize": 3,
+    "editor.detectIndentation": false,
+    "files.associations": {
+      "*.yaml.mako": "yaml",
+      "*.yml.mako": "yaml",
+   },
+   "editor.minimap.enabled": false,
+   "editor.fontSize": 18
+}
